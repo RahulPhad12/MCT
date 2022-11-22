@@ -1,0 +1,69 @@
+@import url('https://fonts.googleapis.com/css2?family=Lexend+Deca:wght@500&family=Poppins&display=swap');
+
+
+.App{
+  background-color: #2f323b;
+}
+
+h1 {
+  text-align: center;
+  color: #FFF;
+}
+
+button {
+  margin: 20px 300px;
+  padding: 12px 40px;
+  background-color: rgb(255, 255, 34);
+  border: none;
+  border-radius: 8px;
+  font-size: 20px;
+}
+
+.contest_info {
+  margin: 20px 300px;
+  padding: 0 30px;
+  border-radius: 10px;
+  background-color: #FFF;
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+}
+
+h2{
+  padding-top: 13px;
+  color: #2D83EE;
+  font-family: 'Lexend Deca', sans-serif;
+}
+
+p{
+  font-family: 'Poppins', sans-serif;
+}
+
+a {
+  position: relative;
+  left: 560px;
+  bottom: 70px;
+  text-decoration: none;
+  border: 1px solid #bbbbbb;
+  padding: 8px 25px;
+  color: #000;
+  border-radius: 8px;
+  font-family: 'Poppins', sans-serif;
+}
+
+a:hover {
+  color: blue;
+  border-color: blue;
+}
+
+.site{
+  color: orangered;
+  font-weight: 900;
+}
+
+.cup{
+  width: 80px;
+  height: 80px;
+  float: right;
+  position: relative;
+  right: 30px;
+  bottom: 180px;
+}
